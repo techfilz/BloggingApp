@@ -13,8 +13,8 @@
   </SelectedNodes>
   <Categories>
     <Category>Key columns</Category>
-    <Category>Virtual foreign keys</Category>
     <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
     <Category>Comments</Category>
   </Categories>
 </Diagram>
