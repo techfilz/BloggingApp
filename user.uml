@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>6cc22916-0188-4e4c-bb6e-e5bf5220055a.TABLE:flog_db.user</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">6cc22916-0188-4e4c-bb6e-e5bf5220055a.TABLE:flog_db.user</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="88.0" y="84.0" />
+  <SelectedNodes>
+    <node>6cc22916-0188-4e4c-bb6e-e5bf5220055a.TABLE:flog_db.user</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+  </Categories>
+</Diagram>
+
