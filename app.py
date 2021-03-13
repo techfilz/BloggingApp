@@ -47,7 +47,7 @@ def edit_blog():
     return render_template('edit-blog.html')
 
 
-# Accepts a parameter of the Blog ID
+# Accepts a parameter of the Blog ID, has no web page
 @app.route('/delete-blog/<int:id>/', methods=['POST'])
 def delete_blog():
     return 'success'
