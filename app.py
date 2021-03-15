@@ -7,7 +7,7 @@ from flask_mysqldb import MySQL
 
 app = Flask(__name__)
 
-# --- Configure DB
+# --- Configure DB via yaml
 db = yaml.safe_load(open('db.yaml'))
 app.config['MySQL_HOST'] = db['mysql_host']
 app.config['MYSQL_USER'] = db['mysql_user']
