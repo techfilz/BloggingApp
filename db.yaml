@@ -1,0 +1,4 @@
+mysql_host: 'localhost'
+mysql_user: 'mark'
+mysql_password: 'archon'
+mysql_db: 'flog_db'
