@@ -1,9 +1,14 @@
+# ------------------------------------------------------------------------------------
+# Source code from course on Udemy https://www.udemy.com/course/python-flask-beginners
+# Need do do PIP INSTALL for:
+#   flask-mysqldb, mysqlclient, pyaml, flask-bootstrap, flask_ckeditor, flask-wtf
+# ------------------------------------------------------------------------------------
+
+import yaml
 from flask import Flask, render_template, request, redirect, session, flash
 from flask_bootstrap import Bootstrap
-from flask_mysqldb import MySQL
 from flask_ckeditor import CKEditor
-import yaml
-import os
+from flask_mysqldb import MySQL
 
 app = Flask(__name__)
 Bootstrap(app)
