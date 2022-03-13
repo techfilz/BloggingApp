@@ -1,7 +1,14 @@
 # ------------------------------------------------------------------------------------
 # Source code from course on Udemy https://www.udemy.com/course/python-flask-beginners
-# Need do do PIP INSTALL for:
+# Need to do PIP INSTALL for:
 #   flask-mysqldb, mysqlclient, pyaml, flask-bootstrap, flask_ckeditor, flask-wtf
+#
+# See https://pypi.org/project/mysqlclient/#
+# Assume you are activating Python 3 venv
+# $ brew install mysql-client
+# $ echo 'export PATH="/usr/local/opt/mysql-client/bin:$PATH"' >> ~/.bash_profile
+# $ export PATH="/usr/local/opt/mysql-client/bin:$PATH"
+# $ pip install mysqlclient
 # ------------------------------------------------------------------------------------
 
 import yaml
