@@ -12,3 +12,6 @@ Approach to building the app:
 2. Design Endpoints for the App : /register /login etc
 3. Build the App frontend - create routes
 4. Develop the backend - handle all requests
+
+TODO: fix security, validate inputs, add on additional use cases
+I used this code as an exercise to migrate to Django using ChatGPT as well.
