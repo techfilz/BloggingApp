@@ -4,7 +4,7 @@
 #   flask-mysqldb, mysqlclient, pyaml, flask-bootstrap, flask_ckeditor, flask-wtf
 #
 # See https://pypi.org/project/mysqlclient/#
-# Assume you are activating Python 3 venv
+# Assume you are activating Python 3 venv and you are using Home Brew on Mac
 # $ brew install mysql-client
 # $ echo 'export PATH="/usr/local/opt/mysql-client/bin:$PATH"' >> ~/.bash_profile
 # $ export PATH="/usr/local/opt/mysql-client/bin:$PATH"
